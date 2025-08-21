@@ -25,3 +25,7 @@ Compile and run the program:
 ```bash
 gcc scramble.c -o scramble
 ./scramble
+```
+---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="80"/>
