@@ -23,8 +23,8 @@ It was created for practice to explore concepts such as:
 ## Usage
 Compile and run the program:
 ```bash
-gcc scramble.c -o scramble
-./scramble
+gcc guess.c -o guess
+./guess
 ```
 ---
 
